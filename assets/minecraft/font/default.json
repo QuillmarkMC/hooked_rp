@@ -1,0 +1,31 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hearts.png",
+            "ascent": 9,
+            "height": 44,
+            "chars": [
+                    "\uE001\uE002\uE003"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/blank_pixel.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+              "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/blank_pixel.png",
+            "ascent": -32768,
+            "height": -104,
+            "chars": [
+              "\uE005"
+            ]
+        }
+    ]
+}
