@@ -1,0 +1,6 @@
+{
+    "parent": "block/sculk",
+    "textures": {
+      "layer0": "block/sculk"
+    }
+  }

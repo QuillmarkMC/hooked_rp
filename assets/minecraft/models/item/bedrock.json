@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:block/bedrock"
+  ,
+  "overrides": [
+    {
+      "predicate": {"custom_model_data": 1},
+      "model": "item/shop/stats"
+    },
+    {
+      "predicate": {"custom_model_data": 2},
+      "model": "item/shop/abilities"
+    },
+    {
+      "predicate": {"custom_model_data": 3},
+      "model": "item/shop/consumes"
+    },
+    {
+      "predicate": {"custom_model_data": 4},
+      "model": "item/shop/hook"
+    },
+    {
+      "predicate": {"custom_model_data": 5},
+      "model": "item/shop/melee"
+    },
+    {
+      "predicate": {"custom_model_data": 6},
+      "model": "item/shop/potion"
+    },
+    {
+      "predicate": {"custom_model_data": 7},
+      "model": "item/shop/back"
+    },
+    {
+      "predicate": {"custom_model_data": 100},
+      "model": "item/ability/creeper"
+    }
+  ]
+}
