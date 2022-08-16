@@ -37,6 +37,10 @@
     {
       "predicate": {"custom_model_data": 101},
       "model": "item/ability/bounce"
+    },
+    {
+      "predicate": {"custom_model_data": 102},
+      "model": "item/ability/knockback"
     }
   ]
 }

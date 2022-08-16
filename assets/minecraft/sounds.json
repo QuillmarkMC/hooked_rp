@@ -1,7 +1,82 @@
 {
     "game.headshot": {
 		"sounds": [
-			"headshot"
+			"announcer/headshot"
+		]
+	},
+	"game.combowhore": {
+		"sounds": [
+			"announcer/combowhore"
+		]
+	},
+	"game.dominating": {
+		"sounds": [
+			"announcer/dominating"
+		]
+	},
+	"game.double_kill": {
+		"sounds": [
+			"announcer/double_kill"
+		]
+	},
+	"game.firstblood": {
+		"sounds": [
+			"announcer/firstblood"
+		]
+	},
+	"game.godlike": {
+		"sounds": [
+			"announcer/godlike"
+		]
+	},
+	"game.holyshit": {
+		"sounds": [
+			"announcer/holyshit"
+		]
+	},
+	"game.killing_spree": {
+		"sounds": [
+			"announcer/killing_spree"
+		]
+	},
+	"game.megakill": {
+		"sounds": [
+			"announcer/megakill"
+		]
+	},
+	"game.monster_kill": {
+		"sounds": [
+			"announcer/monster_kill"
+		]
+	},
+	"game.ownage": {
+		"sounds": [
+			"announcer/ownage"
+		]
+	},
+	"game.rampage": {
+		"sounds": [
+			"announcer/rampage"
+		]
+	},
+	"game.triple_kill": {
+		"sounds": [
+			"announcer/triple_kill"
+		]
+	},
+	"game.ultrakill": {
+		"sounds": [
+			"announcer/ultrakill"
+		]
+	},
+	"game.unstoppable": {
+		"sounds": [
+			"announcer/unstoppable"
+		]
+	},
+	"game.whickedsick": {
+		"sounds": [
+			"announcer/whickedsick"
 		]
 	}
 	
