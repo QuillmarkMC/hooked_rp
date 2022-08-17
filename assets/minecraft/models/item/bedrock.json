@@ -41,6 +41,14 @@
     {
       "predicate": {"custom_model_data": 102},
       "model": "item/ability/knockback"
+    },
+    {
+      "predicate": {"custom_model_data": 103},
+      "model": "item/ability/grapple_loaded"
+    },
+    {
+      "predicate": {"custom_model_data": 104},
+      "model": "item/ability/lifesteal"
     }
   ]
 }

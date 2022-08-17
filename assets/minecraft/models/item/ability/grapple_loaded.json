@@ -1,0 +1,17 @@
+{
+  "parent": "item/crossbow",
+  "textures": {
+    "layer0": "ability/grapple_loaded"
+  },
+	"display": {
+    "thirdperson_righthand": {
+      "rotation": [ 90, -90, 135 ],
+      "translation": [0, 0, -2]
+  },
+  "firstperson_righthand": {
+      "rotation": [ -75, -90, -45 ],
+      "translation": [ 11, 2.5, 0],
+      "scale": [ 0.8, 0.8, 0.8 ]
+  }
+    }
+}

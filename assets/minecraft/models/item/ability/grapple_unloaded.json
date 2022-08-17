@@ -1,0 +1,12 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "ability/grapple_unloaded"
+  },
+	"display": {
+    "thirdperson_righthand": {
+      "rotation": [ 90, -90, 135 ],
+      "translation": [0, 0, -2]
+  }
+}
+}
