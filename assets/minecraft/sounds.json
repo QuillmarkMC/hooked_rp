@@ -78,6 +78,16 @@
 		"sounds": [
 			"announcer/whickedsick"
 		]
+	},
+	"game.music.record_scratch": {
+		"sounds": [
+			"music/record_scratch"
+		]
+	},
+	"game.music.hell": {
+		"sounds": [
+			"music/hell"
+		]
 	}
 	
 }
