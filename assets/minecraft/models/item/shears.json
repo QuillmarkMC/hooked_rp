@@ -5,8 +5,17 @@
   },
   "overrides": [
     {
+      "predicate": {"custom_model_data": 1},
+      "model": "item/ability/grapple_unloaded"
+    },
+    {
+      "predicate": {"custom_model_data": 99},
+      "model": "item/ability/hook"
+    },
+    {
       "predicate": {"custom_model_data": 100},
       "model": "item/ability/creeper"
     }
+    
   ]
 }

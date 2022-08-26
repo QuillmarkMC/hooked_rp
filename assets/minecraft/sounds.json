@@ -88,6 +88,36 @@
 		"sounds": [
 			"music/hell"
 		]
+	},
+	"game.ability.elytra": {
+		"sounds": [
+			"ability/elytra"
+		]
+	},
+	"game.music.sandstorm": {
+		"sounds": [
+			"music/sandstorm"
+		]
+	},
+	"game.music.flame": {
+		"sounds": [
+			"music/the_flame_revolution"
+		]
+	},
+	"game.music.cool_guy": {
+		"sounds": [
+			"music/cool_guy"
+		]
+	},
+	"game.music.rave_a": {
+		"sounds": [
+			"music/rave_a"
+		]
+	},
+	"game.music.avast": {
+		"sounds": [
+			"music/avast_your_ass"
+		]
 	}
 	
 }
