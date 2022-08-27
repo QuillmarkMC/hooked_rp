@@ -104,9 +104,9 @@
 			"music/the_flame_revolution"
 		]
 	},
-	"game.music.cool_guy": {
+	"game.music.positive": {
 		"sounds": [
-			"music/cool_guy"
+			"music/positive_force"
 		]
 	},
 	"game.music.rave_a": {
@@ -117,6 +117,21 @@
 	"game.music.avast": {
 		"sounds": [
 			"music/avast_your_ass"
+		]
+	},
+	"game.music.crypteque": {
+		"sounds": [
+			"music/crypteque"
+		]
+	},
+	"game.music.megalovania": {
+		"sounds": [
+			"music/megalovania"
+		]
+	},
+	"game.music.dota": {
+		"sounds": [
+			"music/dota"
 		]
 	}
 	
