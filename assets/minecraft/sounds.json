@@ -133,6 +133,46 @@
 		"sounds": [
 			"music/dota"
 		]
+	},
+	"game.music.abandon_ship": {
+		"sounds": [
+			"music/abandon_ship"
+		]
+	},
+	"game.music.all_night": {
+		"sounds": [
+			"music/all_night"
+		]
+	},
+	"game.music.can_you_feel_my_heart": {
+		"sounds": [
+			"music/can_you_feel_my_heart"
+		]
+	},
+	"game.music.crab_rave": {
+		"sounds": [
+			"music/crab_rave"
+		]
+	},
+	"game.music.elite_four": {
+		"sounds": [
+			"music/elite_four"
+		]
+	},
+	"game.music.leviathan": {
+		"sounds": [
+			"music/leviathan"
+		]
+	},
+	"game.music.space_invaders": {
+		"sounds": [
+			"music/space_invaders"
+		]
+	},
+	"game.music.bomberman": {
+		"sounds": [
+			"music/bomberman"
+		]
 	}
 	
 }

@@ -15,6 +15,10 @@
     {
       "predicate": {"custom_model_data": 100},
       "model": "item/ability/creeper"
+    },
+    {
+      "predicate": {"custom_model_data": 105},
+      "model": "item/ability/totem"
     }
     
   ]

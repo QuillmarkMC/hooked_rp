@@ -49,6 +49,10 @@
     {
       "predicate": {"custom_model_data": 104},
       "model": "item/ability/lifesteal"
+    },
+    {
+      "predicate": {"custom_model_data": 105},
+      "model": "item/ability/totem"
     }
   ]
 }
