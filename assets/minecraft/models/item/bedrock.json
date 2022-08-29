@@ -31,6 +31,10 @@
       "model": "item/shop/back"
     },
     {
+      "predicate": {"custom_model_data": 8},
+      "model": "item/shop/extra_health"
+    },
+    {
       "predicate": {"custom_model_data": 100},
       "model": "item/ability/creeper"
     },
