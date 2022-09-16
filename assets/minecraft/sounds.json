@@ -173,6 +173,31 @@
 		"sounds": [
 			"music/bomberman"
 		]
+	},
+	"game.music.lamenting_city": {
+		"sounds": [
+			"music/lamenting_city"
+		]
+	},
+	"game.music.brain_power": {
+		"sounds": [
+			"music/brain_power"
+		]
+	},
+	"game.music.intro": {
+		"sounds": [
+			"music/mkwii_intro"
+		]
+	},
+	"game.music.victory": {
+		"sounds": [
+			"music/overwatch"
+		]
+	},
+	"game.music.defeat": {
+		"sounds": [
+			"music/are_you_feeling_it_now"
+		]
 	}
 	
 }

@@ -57,6 +57,10 @@
     {
       "predicate": {"custom_model_data": 105},
       "model": "item/ability/totem"
+    },
+    {
+      "predicate": {"custom_model_data": 106},
+      "model": "item/ability/goat"
     }
   ]
 }
