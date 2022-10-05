@@ -61,6 +61,10 @@
     {
       "predicate": {"custom_model_data": 106},
       "model": "item/ability/goat"
+    },
+    {
+      "predicate": {"custom_model_data": 107},
+      "model": "item/ability/retract"
     }
   ]
 }
