@@ -198,6 +198,106 @@
 		"sounds": [
 			"music/are_you_feeling_it_now"
 		]
+	},
+	"game.music.perfect_hero": {
+		"sounds": [
+			"music/perfect_hero"
+		]
+	},
+	"game.music.adrenaline": {
+		"sounds": [
+			"music/adrenaline"
+		]
+	},
+	"game.music.all_over_me": {
+		"sounds": [
+			"music/all_over_me"
+		]
+	},
+	"game.music.because_of_you": {
+		"sounds": [
+			"music/because_of_you"
+		]
+	},
+	"game.music.deja_vu": {
+		"sounds": [
+			"music/deja_vu"
+		]
+	},
+	"game.music.all_star": {
+		"sounds": [
+			"music/all_star"
+		]
+	},
+	"game.music.gas_gas_gas": {
+		"sounds": [
+			"music/gas_gas_gas"
+		]
+	},
+	"game.music.wont_fall_apart": {
+		"sounds": [
+			"music/wont_fall_apart"
+		]
+	},
+	"game.music.kickstart_my_heart": {
+		"sounds": [
+			"music/kickstart_my_heart"
+		]
+	},
+	"game.music.night_of_fire": {
+		"sounds": [
+			"music/night_of_fire"
+		]
+	},
+	"game.music.nitrofire": {
+		"sounds": [
+			"music/nitrofire"
+		]
+	},
+	"game.music.sleep_in_tokyo": {
+		"sounds": [
+			"music/sleep_in_tokyo"
+		]
+	},
+	"game.music.rebel_yell": {
+		"sounds": [
+			"music/rebel_yell"
+		]
+	},
+	"game.music.remember_me": {
+		"sounds": [
+			"music/remember_me"
+		]
+	},
+	"game.music.revenge": {
+		"sounds": [
+			"music/revenge"
+		]
+	},
+	"game.music.running_in_the_90s": {
+		"sounds": [
+			"music/running_in_the_90s"
+		]
+	},
+	"game.music.race_of_the_night": {
+		"sounds": [
+			"music/race_of_the_night"
+		]
+	},
+	"game.music.the_top": {
+		"sounds": [
+			"music/the_top"
+		]
+	},
+	"game.music.you_give_love_a_bad_name": {
+		"sounds": [
+			"music/you_give_love_a_bad_name"
+		]
+	},
+	"game.music.gonna_go_far_kid": {
+		"sounds": [
+			"music/gonna_go_far_kid"
+		]
 	}
 	
 }
