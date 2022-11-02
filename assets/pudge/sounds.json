@@ -1,0 +1,237 @@
+{
+    "game.music.sandstorm": {
+		"sounds": [
+			"pudge:music/sandstorm"
+		]
+	},
+	"game.music.flame": {
+		"sounds": [
+			"pudge:music/the_flame_revolution"
+		]
+	},
+	"game.music.positive": {
+		"sounds": [
+			"pudge:music/positive_force"
+		]
+	},
+	"game.music.rave_a": {
+		"sounds": [
+			"pudge:music/rave_a"
+		]
+	},
+	"game.music.avast": {
+		"sounds": [
+			"pudge:music/avast_your_ass"
+		]
+	},
+	"game.music.crypteque": {
+		"sounds": [
+			"pudge:music/crypteque"
+		]
+	},
+	"game.music.megalovania": {
+		"sounds": [
+			"pudge:music/megalovania"
+		]
+	},
+	"game.music.dota": {
+		"sounds": [
+			"pudge:music/dota"
+		]
+	},
+	"game.music.abandon_ship": {
+		"sounds": [
+			"pudge:music/abandon_ship"
+		]
+	},
+	"game.music.all_night": {
+		"sounds": [
+			"pudge:music/all_night"
+		]
+	},
+	"game.music.can_you_feel_my_heart": {
+		"sounds": [
+			"pudge:music/can_you_feel_my_heart"
+		]
+	},
+	"game.music.crab_rave": {
+		"sounds": [
+			"pudge:music/crab_rave"
+		]
+	},
+	"game.music.elite_four": {
+		"sounds": [
+			"pudge:music/elite_four"
+		]
+	},
+	"game.music.leviathan": {
+		"sounds": [
+			"pudge:music/leviathan"
+		]
+	},
+	"game.music.space_invaders": {
+		"sounds": [
+			"pudge:music/space_invaders"
+		]
+	},
+	"game.music.bomberman": {
+		"sounds": [
+			"pudge:music/bomberman"
+		]
+	},
+	"game.music.lamenting_city": {
+		"sounds": [
+			"pudge:music/lamenting_city"
+		]
+	},
+	"game.music.brain_power": {
+		"sounds": [
+			"pudge:music/brain_power"
+		]
+	},
+	"game.music.perfect_hero": {
+		"sounds": [
+			"pudge:music/perfect_hero"
+		]
+	},
+	"game.music.adrenaline": {
+		"sounds": [
+			"pudge:music/adrenaline"
+		]
+	},
+	"game.music.all_over_me": {
+		"sounds": [
+			"pudge:music/all_over_me"
+		]
+	},
+	"game.music.because_of_you": {
+		"sounds": [
+			"pudge:music/because_of_you"
+		]
+	},
+	"game.music.deja_vu": {
+		"sounds": [
+			"pudge:music/deja_vu"
+		]
+	},
+	"game.music.all_star": {
+		"sounds": [
+			"pudge:music/all_star"
+		]
+	},
+	"game.music.gas_gas_gas": {
+		"sounds": [
+			"pudge:music/gas_gas_gas"
+		]
+	},
+	"game.music.wont_fall_apart": {
+		"sounds": [
+			"pudge:music/wont_fall_apart"
+		]
+	},
+	"game.music.kickstart_my_heart": {
+		"sounds": [
+			"pudge:music/kickstart_my_heart"
+		]
+	},
+	"game.music.night_of_fire": {
+		"sounds": [
+			"pudge:music/night_of_fire"
+		]
+	},
+	"game.music.nitrofire": {
+		"sounds": [
+			"pudge:music/nitrofire"
+		]
+	},
+	"game.music.sleep_in_tokyo": {
+		"sounds": [
+			"pudge:music/sleep_in_tokyo"
+		]
+	},
+	"game.music.rebel_yell": {
+		"sounds": [
+			"pudge:music/rebel_yell"
+		]
+	},
+	"game.music.remember_me": {
+		"sounds": [
+			"pudge:music/remember_me"
+		]
+	},
+	"game.music.revenge": {
+		"sounds": [
+			"pudge:music/revenge"
+		]
+	},
+	"game.music.running_in_the_90s": {
+		"sounds": [
+			"pudge:music/running_in_the_90s"
+		]
+	},
+	"game.music.race_of_the_night": {
+		"sounds": [
+			"pudge:music/race_of_the_night"
+		]
+	},
+	"game.music.the_top": {
+		"sounds": [
+			"pudge:music/the_top"
+		]
+	},
+	"game.music.you_give_love_a_bad_name": {
+		"sounds": [
+			"pudge:music/you_give_love_a_bad_name"
+		]
+	},
+	"game.music.gonna_go_far_kid": {
+		"sounds": [
+			"pudge:music/gonna_go_far_kid"
+		]
+	},
+	"game.music.blocks": {
+		"sounds": [
+			"pudge:music/blocks"
+		]
+	},
+	"game.music.chirp": {
+		"sounds": [
+			"pudge:music/chirp"
+		]
+	},
+	"game.music.far": {
+		"sounds": [
+			"pudge:music/far"
+		]
+	},
+	"game.music.mall": {
+		"sounds": [
+			"pudge:music/mall"
+		]
+	},
+	"game.music.otherside": {
+		"sounds": [
+			"pudge:music/otherside"
+		]
+	},
+	"game.music.pigstep": {
+		"sounds": [
+			"pudge:music/pigstep"
+		]
+	},
+	"game.music.strand": {
+		"sounds": [
+			"pudge:music/strand"
+		]
+	},
+	"game.music.wait": {
+		"sounds": [
+			"pudge:music/wait"
+		]
+	},
+	"game.music.ward": {
+		"sounds": [
+			"pudge:music/ward"
+		]
+	}
+}
