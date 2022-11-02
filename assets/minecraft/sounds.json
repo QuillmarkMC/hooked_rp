@@ -298,6 +298,51 @@
 		"sounds": [
 			"music/gonna_go_far_kid"
 		]
+	},
+	"game.music.blocks": {
+		"sounds": [
+			"music/blocks"
+		]
+	},
+	"game.music.chirp": {
+		"sounds": [
+			"music/chirp"
+		]
+	},
+	"game.music.far": {
+		"sounds": [
+			"music/far"
+		]
+	},
+	"game.music.mall": {
+		"sounds": [
+			"music/mall"
+		]
+	},
+	"game.music.otherside": {
+		"sounds": [
+			"music/otherside"
+		]
+	},
+	"game.music.pigstep": {
+		"sounds": [
+			"music/pigstep"
+		]
+	},
+	"game.music.strad": {
+		"sounds": [
+			"music/strad"
+		]
+	},
+	"game.music.wait": {
+		"sounds": [
+			"music/wait"
+		]
+	},
+	"game.music.ward": {
+		"sounds": [
+			"music/ward"
+		]
 	}
 	
 }
