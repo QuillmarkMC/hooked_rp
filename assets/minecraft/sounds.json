@@ -108,10 +108,5 @@
 		"sounds": [
 			"music/are_you_feeling_it_now"
 		]
-	},
-	"entity.armor_stand.break": {
-		"sounds": [
-			"item/armor/equip_leather1"
-		]
 	}
 }

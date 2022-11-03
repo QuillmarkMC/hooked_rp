@@ -2,5 +2,6 @@
   "advancements.toast.task": "Now Playing: ",
   "soundCategory.music": "§cVanilla Music (§4disable§c)§r",
   "soundCategory.record": "§aCustom Music§r",
-  "soundCategory.ambient": "§aSound Effects§r"
+  "soundCategory.ambient": "§aSound Effects§r",
+  "container.enderchest": "§3§LItem Shop§r"
 }
