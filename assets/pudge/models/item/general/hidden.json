@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/barrier"
+  },
+	"display": {
+    "thirdperson_righthand": {
+        "scale": [90, 0, 0],
+        "translation": [-6, -3, -4]
+    }
+    }
+}

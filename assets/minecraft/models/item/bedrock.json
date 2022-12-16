@@ -4,67 +4,67 @@
   "overrides": [
     {
       "predicate": {"custom_model_data": 1},
-      "model": "item/shop/stats"
+      "model": "pudge:item/shop/stats"
     },
     {
       "predicate": {"custom_model_data": 2},
-      "model": "item/shop/abilities"
+      "model": "pudge:item/shop/abilities"
     },
     {
       "predicate": {"custom_model_data": 3},
-      "model": "item/shop/consumes"
+      "model": "pudge:item/shop/consumes"
     },
     {
       "predicate": {"custom_model_data": 4},
-      "model": "item/shop/hook"
+      "model": "pudge:item/shop/hook"
     },
     {
       "predicate": {"custom_model_data": 5},
-      "model": "item/shop/melee"
+      "model": "pudge:item/shop/melee"
     },
     {
       "predicate": {"custom_model_data": 6},
-      "model": "item/shop/potion"
+      "model": "pudge:item/shop/potion"
     },
     {
       "predicate": {"custom_model_data": 7},
-      "model": "item/shop/back"
+      "model": "pudge:item/shop/back"
     },
     {
       "predicate": {"custom_model_data": 8},
-      "model": "item/shop/extra_health"
+      "model": "pudge:item/shop/extra_health"
     },
     {
       "predicate": {"custom_model_data": 100},
-      "model": "item/ability/creeper"
+      "model": "pudge:item/ability/creeper"
     },
     {
       "predicate": {"custom_model_data": 101},
-      "model": "item/ability/bounce"
+      "model": "pudge:item/ability/bounce"
     },
     {
       "predicate": {"custom_model_data": 102},
-      "model": "item/ability/knockback"
+      "model": "pudge:item/ability/knockback"
     },
     {
       "predicate": {"custom_model_data": 103},
-      "model": "item/ability/grapple_loaded"
+      "model": "pudge:item/ability/grapple_loaded"
     },
     {
       "predicate": {"custom_model_data": 104},
-      "model": "item/ability/lifesteal"
+      "model": "pudge:item/ability/lifesteal"
     },
     {
       "predicate": {"custom_model_data": 105},
-      "model": "item/ability/totem"
+      "model": "pudge:item/ability/totem"
     },
     {
       "predicate": {"custom_model_data": 106},
-      "model": "item/ability/goat"
+      "model": "pudge:item/ability/goat"
     },
     {
       "predicate": {"custom_model_data": 107},
-      "model": "item/ability/retract"
+      "model": "pudge:item/ability/retract"
     }
   ]
 }

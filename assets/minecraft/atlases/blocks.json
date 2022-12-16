@@ -1,0 +1,14 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "ability",
+            "prefix": "ability/"
+        },
+        {
+            "type": "directory",
+            "source": "shop",
+            "prefix": "shop/"
+        }
+    ]
+}

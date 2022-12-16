@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:shop/extra_health"
+    "layer0": "pudge:shop/extra_health"
   }
 }

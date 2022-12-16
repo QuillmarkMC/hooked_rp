@@ -1,7 +1,7 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "ability/grapple_unloaded"
+    "layer0": "pudge:ability/grapple_unloaded"
   },
 	"display": {
     "thirdperson_righthand": {

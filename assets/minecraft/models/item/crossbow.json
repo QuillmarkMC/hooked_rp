@@ -63,13 +63,13 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "item/ability/grapple_unloaded"
+			"model": "pudge:item/ability/grapple_unloaded"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "item/ability/grapple_loaded"
+			"model": "pudge:item/ability/grapple_loaded"
 		}
     ]
 }

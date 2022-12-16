@@ -6,19 +6,19 @@
   "overrides": [
     {
       "predicate": {"custom_model_data": 1},
-      "model": "item/ability/grapple_unloaded"
+      "model": "pudge:item/ability/grapple_unloaded"
     },
     {
       "predicate": {"custom_model_data": 99},
-      "model": "item/ability/hook"
+      "model": "pudge:item/ability/hook"
     },
     {
       "predicate": {"custom_model_data": 100},
-      "model": "item/ability/creeper"
+      "model": "pudge:item/ability/creeper"
     },
     {
       "predicate": {"custom_model_data": 105},
-      "model": "item/ability/totem"
+      "model": "pudge:item/ability/totem"
     }
     
   ]

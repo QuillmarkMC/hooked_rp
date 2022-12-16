@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/hearts.png",
+            "file": "pudge:font/hearts.png",
             "ascent": 9,
             "height": 44,
             "chars": [
@@ -11,7 +11,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/blank_pixel.png",
+            "file": "pudge:font/blank_pixel.png",
             "ascent": -32768,
             "height": -4,
             "chars": [
@@ -20,7 +20,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/blank_pixel.png",
+            "file": "pudge:font/blank_pixel.png",
             "ascent": -32768,
             "height": -104,
             "chars": [
@@ -29,31 +29,40 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/dark.png",
+            "file": "pudge:font/dark.png",
             "ascent": 256,
             "height": 512,
             "chars": ["\uE006"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/50.png",
+            "file": "pudge:font/50.png",
             "ascent": 256,
             "height": 512,
             "chars": ["\uE007"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/30.png",
+            "file": "pudge:font/30.png",
             "ascent": 256,
             "height": 512,
             "chars": ["\uE008"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/20.png",
+            "file": "pudge:font/20.png",
             "ascent": 256,
             "height": 512,
             "chars": ["\uE009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pudge:font/blank_pixel.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+              "\uE012"
+            ]
         }
     ]
 }
