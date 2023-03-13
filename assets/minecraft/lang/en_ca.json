@@ -5,5 +5,8 @@
   "soundCategory.ambient": "§aSound Effects§r",
   "container.enderchest": "§3§LItem Shop§r",
   "Not Detected\uE012": "§2Installed",
-  "Not Detected": "§2Installed"
+  "Not Detected": "§2Installed",
+  "key.mouse.left": "Left Click",
+  "key.mouse.right": "Right Click",
+  "key.mouse.middle": "Middle Click"
 }

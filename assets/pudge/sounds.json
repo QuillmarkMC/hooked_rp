@@ -79,6 +79,16 @@
 			"pudge:announcer/whickedsick"
 		]
 	},
+	"game.impressive": {
+		"sounds": [
+			"pudge:announcer/impressive"
+		]
+	},
+	"game.team_killer": {
+		"sounds": [
+			"pudge:announcer/team_killer"
+		]
+	},
 	"game.music.record_scratch": {
 		"sounds": [
 			"pudge:music/record_scratch"
@@ -102,13 +112,13 @@
 	},
 	"game.music.victory": {
 		"sounds": [
-			"pudge:music/overwatch"
+			"pudge:music/victory"
 		],
 		"stream": true
 	},
 	"game.music.defeat": {
 		"sounds": [
-			"pudge:music/are_you_feeling_it_now"
+			"pudge:music/defeat"
 		],
 		"stream": true
 	},
@@ -393,5 +403,101 @@
 			"pudge:music/gonna_go_far_kid"
 		],
 		"stream": true
+	},
+	"game.music.fast_piggy": {
+		"sounds": [
+			"pudge:music/pigstep_fast"
+		],
+		"stream": true
+	},
+	"game.headshot.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/headshot"
+		]
+	},
+	"game.combowhore.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/combowhore"
+		]
+	},
+	"game.dominating.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/dominating"
+		]
+	},
+	"game.double_kill.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/double_kill"
+		]
+	},
+	"game.firstblood.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/firstblood"
+		]
+	},
+	"game.godlike.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/godlike"
+		]
+	},
+	"game.holyshit.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/holyshit"
+		]
+	},
+	"game.killing_spree.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/killing_spree"
+		]
+	},
+	"game.megakill.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/megakill"
+		]
+	},
+	"game.monster_kill.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/monster_kill"
+		]
+	},
+	"game.ownage.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/ownage"
+		]
+	},
+	"game.rampage.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/rampage"
+		]
+	},
+	"game.triple_kill.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/triple_kill"
+		]
+	},
+	"game.ultrakill.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/ultrakill"
+		]
+	},
+	"game.unstoppable.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/unstoppable"
+		]
+	},
+	"game.whickedsick.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/whickedsick"
+		]
+	},
+	"game.impressive.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/impressive"
+		]
+	},
+	"game.team_killer.redmage": {
+		"sounds": [
+			"pudge:announcer/redmage/team_killer"
+		]
 	}
 }

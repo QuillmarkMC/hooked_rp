@@ -9,6 +9,11 @@
             "type": "directory",
             "source": "shop",
             "prefix": "shop/"
+        },
+        {
+            "type": "directory",
+            "source": "river",
+            "prefix": "river/"
         }
     ]
 }

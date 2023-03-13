@@ -9,6 +9,10 @@
       "model": "pudge:item/ability/grapple_unloaded"
     },
     {
+      "predicate": {"custom_model_data": 2},
+      "model": "pudge:item/general/hidden"
+    },
+    {
       "predicate": {"custom_model_data": 99},
       "model": "pudge:item/ability/hook"
     },
@@ -19,6 +23,10 @@
     {
       "predicate": {"custom_model_data": 105},
       "model": "pudge:item/ability/totem"
+    },
+    {
+      "predicate": {"custom_model_data": 108},
+      "model": "pudge:item/ability/anchor_arms"
     }
     
   ]
