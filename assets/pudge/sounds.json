@@ -499,5 +499,17 @@
 		"sounds": [
 			"pudge:announcer/redmage/team_killer"
 		]
+	},
+	"game.music.victory.realms": {
+		"sounds": [
+			"pudge:music/victory_realms"
+		],
+		"stream": true
+	},
+	"game.music.defeat.realms": {
+		"sounds": [
+			"pudge:music/defeat_realms"
+		],
+		"stream": true
 	}
 }
