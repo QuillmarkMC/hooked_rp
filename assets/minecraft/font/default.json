@@ -36,23 +36,9 @@
         },
         {
             "type": "bitmap",
-            "file": "pudge:font/50.png",
-            "ascent": 256,
-            "height": 512,
-            "chars": ["\uE007"]
-        },
-        {
-            "type": "bitmap",
-            "file": "pudge:font/30.png",
-            "ascent": 256,
-            "height": 512,
-            "chars": ["\uE008"]
-        },
-        {
-            "type": "bitmap",
             "file": "pudge:font/20.png",
-            "ascent": 256,
-            "height": 512,
+            "ascent": 512,
+            "height": 2048,
             "chars": ["\uE009"]
         },
         {
