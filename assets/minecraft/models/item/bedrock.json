@@ -65,6 +65,14 @@
     {
       "predicate": {"custom_model_data": 107},
       "model": "pudge:item/ability/retract"
+    },
+    {
+      "predicate": {"custom_model_data": 108},
+      "model": "pudge:item/ability/anchor_arms"
+    },
+    {
+      "predicate": {"custom_model_data": 200},
+      "model": "pudge:item/river/lightning"
     }
   ]
 }
