@@ -500,13 +500,13 @@
 			"pudge:announcer/redmage/team_killer"
 		]
 	},
-	"game.music.victory.realms": {
+	"game.music.victory_realms": {
 		"sounds": [
 			"pudge:music/victory_realms"
 		],
 		"stream": true
 	},
-	"game.music.defeat.realms": {
+	"game.music.defeat_realms": {
 		"sounds": [
 			"pudge:music/defeat_realms"
 		],
