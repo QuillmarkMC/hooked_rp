@@ -1,7 +1,7 @@
 {
 	"pack":{
-		"pack_format": 34,
+		"pack_format": 64,
 		"description": "\u00A76\u00A7oResource pack for: \u00A7a\u00A7l\nHook, Line, & Creeper",
-		"supported_formats": [32, 34]
+		"supported_formats": [63, 64]
 	}
 }

@@ -122,57 +122,75 @@
 		],
 		"stream": true
 	},
-    "game.music.blocks": {
-		"sounds": [
-			"pudge:music/blocks"
-		],
-		"stream": true
-	},
-	"game.music.chirp": {
-		"sounds": [
-			"pudge:music/chirp"
-		],
-		"stream": true
-	},
-	"game.music.far": {
-		"sounds": [
-			"pudge:music/far"
-		],
-		"stream": true
-	},
-	"game.music.mall": {
-		"sounds": [
-			"pudge:music/mall"
-		],
-		"stream": true
-	},
 	"game.music.otherside": {
 		"sounds": [
-			"pudge:music/otherside"
+			"pudge:music/minecraft/otherside"
 		],
 		"stream": true
 	},
 	"game.music.pigstep": {
 		"sounds": [
-			"pudge:music/pigstep"
+			"pudge:music/minecraft/pigstep"
 		],
 		"stream": true
 	},
-	"game.music.strad": {
+	"game.music.ascension": {
 		"sounds": [
-			"pudge:music/strad"
+			"pudge:music/minecraft/ascension"
 		],
 		"stream": true
 	},
-	"game.music.wait": {
+	"game.music.broken-heart-of-ender": {
 		"sounds": [
-			"pudge:music/wait"
+			"pudge:music/minecraft/broken-heart-of-ender"
 		],
 		"stream": true
 	},
-	"game.music.ward": {
+	"game.music.clockwork-crafter": {
 		"sounds": [
-			"pudge:music/ward"
+			"pudge:music/minecraft/clockwork-crafter"
+		],
+		"stream": true
+	},
+	"game.music.hastilude": {
+		"sounds": [
+			"pudge:music/minecraft/hastilude"
+		],
+		"stream": true
+	},
+	"game.music.lava-chicken": {
+		"sounds": [
+			"pudge:music/minecraft/lava-chicken"
+		],
+		"stream": true
+	},
+	"game.music.nematocyst": {
+		"sounds": [
+			"pudge:music/minecraft/nematocyst"
+		],
+		"stream": true
+	},
+	"game.music.summit": {
+		"sounds": [
+			"pudge:music/minecraft/summit"
+		],
+		"stream": true
+	},
+	"game.music.tears": {
+		"sounds": [
+			"pudge:music/minecraft/tears"
+		],
+		"stream": true
+	},
+	"game.music.the-arch-illager": {
+		"sounds": [
+			"pudge:music/minecraft/the-arch-illager"
+		],
+		"stream": true
+	},
+	"game.music.the-four-horsemen": {
+		"sounds": [
+			"pudge:music/minecraft/the-four-horsemen"
 		],
 		"stream": true
 	},
