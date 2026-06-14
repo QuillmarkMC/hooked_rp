@@ -3,6 +3,8 @@
   "soundCategory.music": "§c原版音乐 (§4禁用§c)§r",
   "soundCategory.record": "§a自定义音乐§r",
   "soundCategory.ambient": "§a音效§r",
+  "menu.options": "§a选项…§r",
+  "options.sounds": "§a音乐和声音…§r",
   "container.enderchest": "§3§L物品商店§r",
   "key.mouse.left": "左键点击",
   "key.mouse.right": "右键点击",
