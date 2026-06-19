@@ -3,6 +3,8 @@
   "soundCategory.music": "§cОригинальная музыка (§4отключите§c)§r",
   "soundCategory.record": "§aКастомная музыка§r",
   "soundCategory.ambient": "§aЗвуковые эффекты§r",
+  "menu.options": "§aНастройки...§r",
+  "options.sounds": "§aМузыка и звуки...§r",
   "container.enderchest": "§3§LМагазин предметов§r",
   "key.mouse.left": "Левая кнопка мыши",
   "key.mouse.right": "Правая кнопка мыши",

@@ -3,6 +3,8 @@
   "soundCategory.music": "§cVanilla Music (§4disable§c)§r",
   "soundCategory.record": "§aCustom Music§r",
   "soundCategory.ambient": "§aSound Effects§r",
+  "menu.options": "§aOptions...§r",
+  "options.sounds": "§aMusic & Sounds...§r",
   "container.enderchest": "§3§LItem Shop§r",
   "key.mouse.left": "Left Click",
   "key.mouse.right": "Right Click",

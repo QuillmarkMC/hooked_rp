@@ -3,6 +3,8 @@
   "soundCategory.music": "§cバニラBGM (§4オフ推奨§c)§r",
   "soundCategory.record": "§aカスタムBGM§r",
   "soundCategory.ambient": "§a効果音§r",
+  "menu.options": "§a設定…§r",
+  "options.sounds": "§aサウンド設定…§r",
   "container.enderchest": "§3§Lアイテムショップ§r",
   "key.mouse.left": "左クリック",
   "key.mouse.right": "右クリック",

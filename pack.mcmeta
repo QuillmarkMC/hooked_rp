@@ -1,7 +1,21 @@
 {
 	"pack":{
 		"min_format": [84,0],
-		"max_format": [84,0],
+		"max_format": [88,0],
 		"description": "\u00A76\u00A7oResource pack for: \u00A7a\u00A7l\nHook, Line, & Creeper"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"directory": "26.1.2",
+				"min_format": [84,0],
+				"max_format": [84,0]
+			},
+			{
+				"directory": "26.2",
+				"min_format": [88,0],
+				"max_format": [88,0]
+			}
+		]
 	}
 }
